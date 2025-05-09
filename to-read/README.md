@@ -94,7 +94,6 @@ Para criar uma versão otimizada para produção:
 ```bash
 npm run build
 ```
+![Demo](to-read/Print_to-read.png)
 
-## Contribuição
 
-Sinta-se à vontade para contribuir com o projeto através de pull requests ou reportando issues.
